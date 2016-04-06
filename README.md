@@ -1,2 +1,6 @@
 ﻿# Academic_Writing
 英语学术写作常见句式
+1. A particularly important feature exhibited by the curves is the...   
+ 曲线表现出的一个特别重要的特点是···  
+2. It will be seen from Figure 2 that...  
+ 从图2可以看出···
